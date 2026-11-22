@@ -4,8 +4,8 @@ A small, reproducible educational baseline for **information extraction (IE)**:
 recognizing entity mentions, extracting typed relations, and evaluating both
 with exact-match precision, recall, and F1.
 
-This is an educational example for a fictional academic homepage. It is not a
-published research contribution or evidence of any person's qualifications.
+The repository provides annotated examples, executable extraction rules, and
+explicit evaluation criteria for studying the behavior of a simple baseline.
 
 ## What the example does
 
